@@ -1,3 +1,6 @@
+Rohan Godha
+This can help us know our rights, duties from huge law books, get instant first-aid suggestions just by a CLICK!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
